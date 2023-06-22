@@ -1,3 +1,11 @@
+#KeepNotes Webapp using Reactjs
+1. It let's you to add notes and save them locally on your computer.
+2. It has features like edit note, delete note and change color of the note.
+3. Provides dark theme and light theme .
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
