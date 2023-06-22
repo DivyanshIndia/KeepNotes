@@ -1,4 +1,4 @@
-#KeepNotes Webapp using Reactjs
+# KeepNotes Webapp using Reactjs
 1. It let's you to add notes and save them locally on your computer.
 2. It has features like edit note, delete note and change color of the note.
 3. Provides dark theme and light theme .
